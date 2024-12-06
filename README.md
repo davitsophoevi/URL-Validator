@@ -14,3 +14,4 @@ This Python script asynchronously checks the availability of specific pages (end
 
 ## Installation:
 1. Clone the repository:
+git clone https://github.com/davitsophoevi/URL-Validator.git
